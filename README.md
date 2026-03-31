@@ -27,6 +27,8 @@ Data Preparation
 •	Created derived fields (age_category, total_spent).
 •	Standardized date formats for time-series analysis.
 
+Power BI dashboard link: https://app.powerbi.com/view?r=eyJrIjoiNWI3M2JiZjQtMjc2ZS00YjJmLWIyMTItZjIxOTUyMjFmYjE2IiwidCI6IjIyNjgyN2Q2LWE5ZDAtNDcwZC04YzE1LWIxNDZiMDE5MmQ1MSIsImMiOjh9
+
 Analysis & Metrics
 •	Total Revenue - The overall revenue generated across all transactions. This provides a clear view of the business’s scale and performance.
 •	Revenue by Category – Breakdown of sales by product category. This shows which categories are the strongest revenue drivers and highlights opportunities for growth or improvement.
